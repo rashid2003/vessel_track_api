@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"vessel_track"},
+{"type":"table","name":"vessel_track","database":"vessel_track","data":
+[
+{"id":"1","mmsi":"aaa0001","status":"active","station":"1","speed":"2.130","lon":"1234.34320000","lat":"3421.45450000","course":"M-100","heading":"Track hi","rot":"gh900","created_at":"2022-03-30 20:50:00"},
+{"id":"2","mmsi":"aaa0001","status":"inactive","station":"1","speed":"2.130","lon":"1234.34320000","lat":"3421.45450000","course":"M-100","heading":"Track hi","rot":"gh900","created_at":"2022-03-30 20:50:00"},
+{"id":"3","mmsi":"aaa0001","status":"active","station":"1","speed":"2.130","lon":"1234.34320000","lat":"3421.45450000","course":"M-200","heading":"Track hi","rot":"gh900","created_at":"2022-03-30 20:50:00"},
+{"id":"4","mmsi":"aaa0001","status":"inactive","station":"1","speed":"2.130","lon":"1234.34320000","lat":"3421.45450000","course":"M-200","heading":"Track hi","rot":"gh900","created_at":"2022-03-30 20:50:00"},
+{"id":"5","mmsi":"aaa0001","status":"active","station":"1","speed":"2.130","lon":"1334.34320000","lat":"3421.45450000","course":"M-200","heading":"Track hi","rot":"gh900","created_at":"2022-03-30 20:50:00"}
+]
+}
+]
